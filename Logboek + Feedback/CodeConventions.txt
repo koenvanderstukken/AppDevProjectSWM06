@@ -1,0 +1,5 @@
+CODE CONVENTION:
+    * Variabelen namen in Nederlands
+    * Class namen Nederlands 
+    
+TDD Werken    

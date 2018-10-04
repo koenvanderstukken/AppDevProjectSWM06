@@ -1,0 +1,24 @@
+Sprint1 _Week Paasverlof
+
+
+-> Overlopen frontend paginas
+    > Enkele layout mss nog van aanpassen?
+            - VoorstelStagelayout
+            - ...
+    > AlgemeenoverzichtStageopdrachtLectorenStagecoordinator geeft badgateway
+        > Code is zo raar?
+-> Ajax werkende krijgen om front met back te verbinden
+    > Veel troubles maar begint te lukken
+-> Git problemen
+    TODO: Gitignore voor frontend maken
+-> Inloggen en op juiste pagina komen
+    > Ruben is so close
+-> Conclussie geen linked-in
+
+
+
+Verder afwerken?
+    > Zien dat homescreens inorde zijn!
+    > ReadMe inorde maken!
+    
+    Anissa: Post unit test fiksen + ajax bij stagecoordinatorhomescreen nog invoegen

@@ -1,0 +1,13 @@
+stagecoordinator kan niet standaard reviewen, die moet zichzelf toevoegen als "lector" die kan reviewen 
+
+
+Eerst gebeurt een rewiew, coordinator ziet dat een review en als die positief is 
+keurt de coordinator de opdracht goed.
+
+Titel van de stage/opdracht mist in de schermpjes
+
+Reviewprocess!!!!!!!!!!!!!!!!!!!!!!!!
+^basisminimum vereiste 
+
+voorrang op reviewen dus vooral, eventueel client even laten linksliggen
+

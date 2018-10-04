@@ -1,0 +1,25 @@
+Sprint 1 _Week 1
+
+    > Sprint samenstellen
+    > Azure server opstarten
+    > Tijdens sprint 1 wordt het inloggen niet volledig uitgewerkt, zie comment bij deze user story
+    > Verdelen Sprints
+                > Maarten
+                    > Front-end
+                        Inloggen
+                        Registreren studenten en bedrijven
+                        Wachtwoord vergeten
+                                              
+                > Michiel
+                        indienen stageopdracht
+                        Detail stageopdracht student
+                        Review stageopdracht lector
+                        
+                > Ybe
+                   13, 14, 23
+                > Ruben
+                   12, 16, 22
+                > Anissa
+                   11, 17, 18 
+
+    > Database? Momenteel nog dummydata gebruiken, database maken met het registeren

@@ -1,0 +1,13 @@
+Sprint 2 week 1
+
+TODO:
+    Registreren                                 > Anissa
+    Client beginnen maken                       > Ruben
+    Post methode stageopdrachten fiksen         > Ybe
+    andere functionaliteiten implementeren      > ?
+            > Welke?
+    Stageindienen pagina html veranderen        > ?
+    Uitloggen                                   > ?
+    Meer informatie stageopdracht pagina        > ?
+    Op Azure plaatsen                           > ?
+    Sprint 2 plannen

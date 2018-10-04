@@ -1,0 +1,19 @@
+Sprint 1 week 2
+
+> Herziening sprint en user stories
+> In orde maken op git dat we tegelijk aan het project kunnen werken
+> Indien nog veel tijd over extra bijvoegen aan sprint 1
+
+
+    Inloggen                     > Ruben
+    Stages indienen + bewerken   > Ybe 
+    Stages goedkeuren + bekijken + favorieten > Anissa 
+    > Maarten
+                        Startschermen studenten, bedrijven, stagecoordinator en lectoren
+                        overzicht stageopdrachten student en stagecoordinator
+                        behandelde stageopdrachten lector
+                                              
+    > Michiel
+                        Toekennen lector stagecoördinator
+                        Student aanvraag stageopdracht stagecoördinator
+                        Algemeen overzicht stageopdracht lector en stagecoördinator

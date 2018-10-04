@@ -1,0 +1,10 @@
+FEEDBACK
+> favorieten moet pas kunnen bij het openvouwen van de opdracht,
+  en gaan we de opdracht uitvouwen of in een nieuw scherm openen?
+> rede waarom opdracht goed of slecht gekeurd is
+> JIRA!!!
+> samenperiode mag niet statisch zijn, moet veranderbaar zijn  
+
+
+
+
